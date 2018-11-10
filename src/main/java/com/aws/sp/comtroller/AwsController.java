@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.aws.sp.service.awsService;
-import com.aws.sp.vo.AwsVO;
-
+import com.aws.sp.vo.AwsVO;  
+ 
 @Controller
 public class AwsController {
 
